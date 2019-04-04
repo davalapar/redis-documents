@@ -1,0 +1,21 @@
+{
+  "name": "redis-documents",
+  "version": "0.0.0",
+  "description": "Redis-based documents.",
+  "main": "./index.js",
+  "author": "davalapar <davalapar@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ioredis": "^4.9.0",
+    "lodash": "^4.17.11",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.13.0",
+    "eslint-config-airbnb": "17.1.0",
+    "eslint-plugin-import": "2.14.0",
+    "eslint-plugin-jsx-a11y": "6.1.1",
+    "eslint-plugin-react": "7.11.0",
+    "jest": "^24.1.0"
+  }
+}
